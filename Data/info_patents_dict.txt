@@ -1,0 +1,13 @@
+assignee_type:	2 - US Company or Corporation 
+		3 - Foreign Company or Corporation, 
+		4 - US Individual 
+		5 - Foreign Individual, 
+		6 - US Government, 
+		7 - Foreign Government, 
+		8 - Country Government, 
+		9 - State Government (US). Note: A "1" appearing before any of these codes signifies part interest
+
+patent_kind:	World Intellectual Property Organization (WIPO) Standard ST.16 Patent Code (http://www.uspto.gov/learning-and-resources/support-centers/electronic-business-center/kind-codes-included-uspto-patent)
+		A: Patent Kind code replaced by B1 or B2
+		B1:Patent No previously published pre-grant publication
+		B2:Patent Having a previously published pre-grant publication and available March 2001
