@@ -1,0 +1,2301 @@
+,assignee_id,assignee_organization,assignee_type,assignee_lastknown_country,assignee_total_num_patents,assignee_total_num_inventors
+0,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+2,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+3,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+4,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+5,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+6,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+7,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+8,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+9,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+10,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+11,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+12,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+13,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+14,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+15,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+16,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+17,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+18,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+19,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+20,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+21,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+22,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+23,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+24,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+25,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+26,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+27,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+28,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+29,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+30,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+31,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+32,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+33,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+34,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+35,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+36,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+37,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+38,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+39,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+40,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+41,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+42,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+43,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+44,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+45,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+46,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+47,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+48,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+49,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+50,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+51,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+52,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+53,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+54,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+55,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+56,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+57,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+58,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+59,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+60,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+61,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+62,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+63,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+64,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+65,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+66,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+67,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+68,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+69,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+70,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+71,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+72,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+73,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+74,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+75,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+76,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+77,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+78,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+79,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+80,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+81,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+82,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+83,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+84,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+85,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+86,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+87,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+88,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+89,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+90,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+91,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+92,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+93,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+94,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+95,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+96,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+97,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+98,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+99,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+100,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+101,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+102,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+103,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+104,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+105,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+106,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+107,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+108,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+109,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+110,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+111,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+112,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+113,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+114,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+115,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+116,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+117,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+118,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+119,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+120,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+121,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+122,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+123,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+124,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+125,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+126,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+127,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+128,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+129,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+130,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+131,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+132,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+133,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+134,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+135,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+136,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+137,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+138,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+139,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+140,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+141,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+142,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+143,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+144,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+145,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+146,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+147,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+148,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+149,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+150,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+151,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+152,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+153,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+154,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+155,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+156,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+157,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+158,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+159,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+160,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+161,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+162,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+163,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+164,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+165,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+166,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+167,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+168,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+169,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+170,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+171,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+172,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+173,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+174,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+175,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+176,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+177,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+178,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+179,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+180,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+181,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+182,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+183,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+184,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+185,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+186,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+187,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+188,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+189,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+190,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+191,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+192,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+193,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+194,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+195,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+196,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+197,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+198,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+199,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+200,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+201,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+202,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+203,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+204,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+205,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+206,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+207,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+208,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+209,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+210,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+211,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+212,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+213,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+214,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+215,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+216,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+217,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+218,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+219,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+220,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+221,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+222,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+223,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+224,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+225,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+226,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+227,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+228,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+229,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+230,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+231,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+232,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+233,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+234,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+235,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+236,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+237,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+238,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+239,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+240,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+241,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+242,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+243,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+244,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+245,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+246,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+247,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+248,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+249,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+250,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+251,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+252,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+253,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+254,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+255,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+256,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+257,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+258,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+259,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+260,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+261,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+262,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+263,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+264,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+265,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+266,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+267,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+268,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+269,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+270,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+271,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+272,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+273,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+274,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+275,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+276,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+277,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+278,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+279,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+280,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+281,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+282,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+283,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+284,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+285,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+286,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+287,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+288,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+289,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+290,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+291,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+292,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+293,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+294,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+295,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+296,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+297,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+298,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+299,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+300,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+301,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+302,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+303,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+304,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+305,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+306,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+307,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+308,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+309,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+310,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+311,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+312,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+313,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+314,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+315,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+316,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+317,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+318,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+319,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+320,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+321,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+322,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+323,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+324,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+325,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+326,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+327,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+328,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+329,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+330,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+331,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+332,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+333,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+334,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+335,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+336,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+337,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+338,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+339,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+340,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+341,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+342,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+343,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+344,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+345,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+346,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+347,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+348,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+349,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+350,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+351,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+352,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+353,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+354,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+355,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+356,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+357,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+358,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+359,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+360,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+361,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+362,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+363,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+364,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+365,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+366,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+367,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+368,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+369,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+370,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+371,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+372,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+373,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+374,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+375,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+376,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+377,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+378,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+379,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+380,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+381,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+382,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+383,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+384,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+385,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+386,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+387,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+388,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+389,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+390,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+391,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+392,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+393,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+394,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+395,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+396,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+397,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+398,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+399,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+400,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+401,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+402,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+403,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+404,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+405,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+406,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+407,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+408,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+409,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+410,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+411,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+412,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+413,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+414,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+415,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+416,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+417,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+418,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+419,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+420,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+421,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+422,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+423,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+424,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+425,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+426,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+427,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+428,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+429,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+430,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+431,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+432,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+433,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+434,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+435,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+436,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+437,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+438,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+439,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+440,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+441,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+442,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+443,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+444,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+445,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+446,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+447,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+448,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+449,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+450,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+451,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+452,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+453,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+454,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+455,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+456,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+457,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+458,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+459,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+460,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+461,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+462,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+463,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+464,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+465,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+466,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+467,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+468,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+469,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+470,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+471,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+472,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+473,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+474,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+475,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+476,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+477,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+478,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+479,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+480,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+481,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+482,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+483,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+484,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+485,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+486,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+487,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+488,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+489,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+490,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+491,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+492,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+493,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+494,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+495,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+496,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+497,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+498,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+499,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+500,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+501,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+502,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+503,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+504,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+505,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+506,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+507,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+508,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+509,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+510,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+511,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+512,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+513,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+514,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+515,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+516,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+517,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+518,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+519,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+520,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+521,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+522,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+523,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+524,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+525,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+526,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+527,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+528,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+529,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+530,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+531,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+532,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+533,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+534,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+535,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+536,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+537,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+538,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+539,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+540,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+541,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+542,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+543,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+544,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+545,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+546,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+547,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+548,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+549,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+550,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+551,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+552,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+553,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+554,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+555,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+556,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+557,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+558,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+559,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+560,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+561,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+562,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+563,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+564,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+565,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+566,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+567,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+568,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+569,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+570,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+571,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+572,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+573,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+574,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+575,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+576,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+577,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+578,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+579,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+580,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+581,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+582,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+583,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+584,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+585,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+586,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+587,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+588,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+589,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+590,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+591,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+592,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+593,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+594,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+595,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+596,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+597,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+598,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+599,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+600,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+601,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+602,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+603,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+604,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+605,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+606,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+607,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+608,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+609,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+610,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+611,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+612,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+613,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+614,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+615,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+616,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+617,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+618,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+619,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+620,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+621,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+622,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+623,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+624,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+625,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+626,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+627,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+628,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+629,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+630,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+631,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+632,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+633,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+634,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+635,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+636,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+637,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+638,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+639,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+640,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+641,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+642,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+643,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+644,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+645,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+646,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+647,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+648,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+649,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+650,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+651,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+652,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+653,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+654,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+655,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+656,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+657,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+658,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+659,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+660,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+661,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+662,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+663,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+664,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+665,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+666,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+667,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+668,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+669,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+670,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+671,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+672,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+673,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+674,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+675,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+676,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+677,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+678,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+679,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+680,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+681,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+682,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+683,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+684,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+685,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+686,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+687,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+688,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+689,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+690,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+691,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+692,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+693,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+694,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+695,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+696,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+697,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+698,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+699,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+700,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+701,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+702,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+703,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+704,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+705,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+706,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+707,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+708,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+709,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+710,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+711,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+712,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+713,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+714,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+715,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+716,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+717,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+718,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+719,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+720,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+721,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+722,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+723,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+724,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+725,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+726,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+727,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+728,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+729,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+730,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+731,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+732,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+733,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+734,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+735,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+736,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+737,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+738,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+739,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+740,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+741,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+742,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+743,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+744,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+745,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+746,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+747,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+748,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+749,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+750,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+751,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+752,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+753,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+754,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+755,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+756,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+757,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+758,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+759,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+760,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+761,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+762,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+763,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+764,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+765,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+766,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+767,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+768,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+769,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+770,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+771,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+772,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+773,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+774,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+775,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+776,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+777,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+778,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+779,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+780,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+781,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+782,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+783,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+784,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+785,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+786,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+787,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+788,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+789,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+790,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+791,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+792,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+793,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+794,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+795,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+796,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+797,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+798,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+799,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+800,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+801,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+802,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+803,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+804,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+805,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+806,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+807,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+808,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+809,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+810,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+811,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+812,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+813,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+814,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+815,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+816,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+817,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+818,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+819,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+820,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+821,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+822,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+823,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+824,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+825,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+826,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+827,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+828,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+829,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+830,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+831,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+832,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+833,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+834,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+835,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+836,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+837,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+838,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+839,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+840,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+841,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+842,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+843,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+844,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+845,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+846,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+847,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+848,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+849,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+850,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+851,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+852,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+853,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+854,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+855,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+856,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+857,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+858,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+859,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+860,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+861,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+862,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+863,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+864,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+865,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+866,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+867,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+868,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+869,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+870,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+871,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+872,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+873,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+874,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+875,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+876,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+877,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+878,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+879,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+880,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+881,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+882,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+883,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+884,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+885,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+886,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+887,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+888,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+889,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+890,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+891,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+892,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+893,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+894,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+895,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+896,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+897,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+898,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+899,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+900,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+901,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+902,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+903,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+904,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+905,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+906,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+907,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+908,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+909,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+910,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+911,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+912,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+913,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+914,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+915,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+916,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+917,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+918,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+919,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+920,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+921,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+922,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+923,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+924,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+925,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+926,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+927,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+928,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+929,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+930,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+931,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+932,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+933,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+934,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+935,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+936,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+937,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+938,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+939,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+940,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+941,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+942,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+943,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+944,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+945,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+946,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+947,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+948,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+949,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+950,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+951,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+952,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+953,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+954,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+955,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+956,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+957,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+958,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+959,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+960,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+961,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+962,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+963,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+964,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+965,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+966,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+967,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+968,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+969,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+970,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+971,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+972,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+973,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+974,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+975,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+976,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+977,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+978,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+979,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+980,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+981,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+982,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+983,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+984,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+985,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+986,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+987,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+988,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+989,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+990,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+991,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+992,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+993,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+994,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+995,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+996,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+997,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+998,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+999,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1000,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1001,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1002,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1003,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1004,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1005,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1006,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1007,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1008,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1009,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1010,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1011,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1012,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1013,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1014,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1015,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1016,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1017,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1018,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1019,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1020,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1021,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1022,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1023,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1024,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1025,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1026,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1027,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1028,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1029,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1030,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1031,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1032,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1033,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1034,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1035,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1036,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1037,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1038,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1039,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1040,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1041,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1042,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1043,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1044,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1045,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1046,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1047,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1048,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1049,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1050,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1051,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1052,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1053,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1054,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1055,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1056,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1057,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1058,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1059,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1060,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1061,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1062,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1063,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1064,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1065,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1066,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1067,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1068,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1069,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1070,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1071,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1072,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1073,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1074,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1075,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1076,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1077,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1078,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1079,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1080,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1081,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1082,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1083,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1084,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1085,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1086,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1087,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1088,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1089,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1090,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1091,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1092,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1093,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1094,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1095,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1096,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1097,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1098,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1099,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1100,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1101,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1102,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1103,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1104,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1105,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1106,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1107,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1108,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1109,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1110,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1111,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1112,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1113,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1114,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1115,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1116,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1117,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1118,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1119,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1120,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1121,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1122,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1123,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1124,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1125,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1126,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1127,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1128,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1129,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1130,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1131,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1132,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1133,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1134,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1135,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1136,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1137,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1138,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1139,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1140,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1141,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1142,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1143,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1144,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1145,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1146,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1147,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1148,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1149,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1150,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1151,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1152,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1153,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1154,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1155,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1156,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1157,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1158,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1159,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1160,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1161,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1162,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1163,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1164,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1165,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1166,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1167,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1168,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1169,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1170,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1171,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1172,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1173,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1174,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1175,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1176,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1177,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1178,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1179,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1180,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1181,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1182,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1183,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1184,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1185,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1186,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1187,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1188,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1189,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1190,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1191,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1192,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1193,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1194,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1195,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1196,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1197,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1198,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1199,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1200,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1201,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1202,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1203,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1204,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1205,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1206,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1207,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1208,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1209,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1210,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1211,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1212,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1213,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1214,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1215,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1216,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1217,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1218,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1219,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1220,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1221,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1222,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1223,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1224,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1225,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1226,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1227,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1228,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1229,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1230,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1231,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1232,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1233,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1234,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1235,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1236,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1237,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1238,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1239,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1240,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1241,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1242,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1243,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1244,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1245,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1246,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1247,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1248,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1249,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1250,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1251,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1252,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1253,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1254,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1255,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1256,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1257,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1258,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1259,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1260,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1261,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1262,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1263,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1264,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1265,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1266,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1267,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1268,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1269,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1270,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1271,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1272,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1273,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1274,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1275,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1276,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1277,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1278,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1279,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1280,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1281,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1282,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1283,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1284,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1285,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1286,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1287,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1288,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1289,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1290,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1291,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1292,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1293,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1294,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1295,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1296,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1297,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1298,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1299,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1300,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1301,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1302,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1303,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1304,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1305,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1306,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1307,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1308,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1309,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1310,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1311,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1312,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1313,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1314,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1315,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1316,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1317,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1318,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1319,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1320,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1321,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1322,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1323,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1324,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1325,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1326,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1327,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1328,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1329,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1330,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1331,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1332,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1333,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1334,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1335,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1336,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1337,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1338,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1339,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1340,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1341,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1342,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1343,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1344,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1345,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1346,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1347,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1348,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1349,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1350,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1351,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1352,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1353,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1354,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1355,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1356,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1357,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1358,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1359,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1360,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1361,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1362,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1363,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1364,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1365,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1366,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1367,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1368,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1369,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1370,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1371,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1372,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1373,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1374,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1375,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1376,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1377,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1378,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1379,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1380,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1381,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1382,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1383,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1384,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1385,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1386,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1387,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1388,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1389,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1390,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1391,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1392,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1393,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1394,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1395,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1396,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1397,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1398,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1399,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1400,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1401,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1402,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1403,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1404,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1405,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1406,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1407,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1408,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1409,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1410,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1411,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1412,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1413,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1414,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1415,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1416,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1417,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1418,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1419,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1420,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1421,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1422,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1423,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1424,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1425,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1426,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1427,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1428,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1429,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1430,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1431,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1432,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1433,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1434,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1435,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1436,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1437,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1438,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1439,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1440,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1441,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1442,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1443,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1444,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1445,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1446,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1447,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1448,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1449,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1450,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1451,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1452,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1453,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1454,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1455,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1456,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1457,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1458,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1459,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1460,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1461,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1462,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1463,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1464,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1465,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1466,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1467,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1468,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1469,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1470,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1471,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1472,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1473,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1474,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1475,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1476,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1477,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1478,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1479,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1480,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1481,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1482,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1483,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1484,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1485,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1486,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1487,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1488,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1489,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1490,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1491,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1492,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1493,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1494,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1495,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1496,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1497,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1498,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1499,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1500,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1501,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1502,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1503,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1504,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1505,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1506,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1507,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1508,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1509,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1510,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1511,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1512,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1513,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1514,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1515,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1516,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1517,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1518,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1519,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1520,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1521,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1522,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1523,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1524,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1525,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1526,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1527,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1528,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1529,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1530,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1531,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1532,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1533,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1534,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1535,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1536,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1537,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1538,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1539,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1540,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1541,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1542,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1543,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1544,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1545,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1546,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1547,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1548,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1549,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1550,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1551,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1552,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1553,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1554,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1555,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1556,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1557,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1558,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1559,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1560,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1561,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1562,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1563,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1564,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1565,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1566,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1567,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1568,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1569,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1570,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1571,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1572,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1573,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1574,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1575,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1576,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1577,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1578,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1579,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1580,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1581,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1582,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1583,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1584,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1585,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1586,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1587,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1588,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1589,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1590,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1591,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1592,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1593,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1594,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1595,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1596,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1597,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1598,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1599,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1600,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1601,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1602,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1603,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1604,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1605,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1606,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1607,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1608,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1609,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1610,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1611,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1612,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1613,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1614,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1615,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1616,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1617,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1618,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1619,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1620,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1621,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1622,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1623,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1624,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1625,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1626,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1627,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1628,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1629,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1630,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1631,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1632,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1633,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1634,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1635,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1636,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1637,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1638,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1639,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1640,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1641,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1642,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1643,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1644,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1645,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1646,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1647,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1648,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1649,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1650,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1651,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1652,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1653,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1654,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1655,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1656,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1657,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1658,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1659,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1660,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1661,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1662,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1663,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1664,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1665,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1666,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1667,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1668,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1669,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1670,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1671,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1672,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1673,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1674,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1675,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1676,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1677,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1678,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1679,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1680,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1681,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1682,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1683,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1684,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1685,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1686,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1687,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1688,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1689,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1690,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1691,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1692,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1693,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1694,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1695,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1696,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1697,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1698,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1699,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1700,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1701,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1702,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1703,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1704,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1705,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1706,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1707,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1708,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1709,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1710,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1711,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1712,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1713,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1714,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1715,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1716,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1717,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1718,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1719,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1720,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1721,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1722,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1723,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1724,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1725,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1726,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1727,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1728,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1729,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1730,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1731,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1732,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1733,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1734,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1735,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1736,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1737,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1738,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1739,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1740,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1741,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1742,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1743,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1744,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1745,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1746,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1747,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1748,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1749,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1750,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1751,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1752,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1753,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1754,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1755,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1756,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1757,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1758,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1759,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1760,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1761,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1762,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1763,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1764,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1765,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1766,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1767,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1768,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1769,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1770,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1771,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1772,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1773,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1774,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1775,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1776,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1777,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1778,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1779,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1780,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1781,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1782,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1783,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1784,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1785,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1786,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1787,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1788,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1789,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1790,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1791,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1792,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1793,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1794,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1795,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1796,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1797,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1798,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1799,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1800,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1801,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1802,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1803,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1804,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1805,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1806,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1807,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1808,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1809,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1810,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1811,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1812,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1813,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1814,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1815,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1816,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1817,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1818,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1819,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1820,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1821,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1822,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1823,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1824,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1825,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1826,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1827,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1828,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1829,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1830,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1831,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1832,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1833,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1834,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1835,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1836,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1837,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1838,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1839,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1840,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1841,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1842,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1843,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1844,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1845,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1846,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1847,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1848,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1849,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1850,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1851,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1852,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1853,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1854,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1855,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1856,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1857,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1858,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1859,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1860,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1861,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1862,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1863,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1864,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1865,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1866,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1867,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1868,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1869,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1870,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1871,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1872,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1873,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1874,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1875,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1876,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1877,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1878,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1879,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1880,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1881,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1882,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1883,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1884,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1885,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1886,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1887,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1888,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1889,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1890,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1891,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1892,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1893,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1894,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1895,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1896,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1897,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1898,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1899,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+1900,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+1901,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+1902,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+1903,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+1904,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+1905,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+1906,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+1907,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+1908,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+1909,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+1910,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+1911,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+1912,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+1913,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+1914,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+1915,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+1916,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+1917,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+1918,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+1919,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+1920,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+1921,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+1922,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+1923,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+1924,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+1925,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+1926,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+1927,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+1928,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+1929,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+1930,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+1931,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+1932,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+1933,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+1934,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+1935,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+1936,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+1937,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+1938,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+1939,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+1940,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+1941,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+1942,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+1943,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+1944,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+1945,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+1946,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+1947,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+1948,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+1949,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+1950,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+1951,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+1952,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+1953,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+1954,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+1955,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+1956,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+1957,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+1958,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+1959,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+1960,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+1961,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+1962,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+1963,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+1964,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+1965,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+1966,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+1967,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+1968,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+1969,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+1970,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+1971,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+1972,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+1973,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+1974,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+1975,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+1976,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+1977,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+1978,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+1979,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+1980,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+1981,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+1982,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+1983,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+1984,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+1985,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+1986,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+1987,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+1988,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+1989,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+1990,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+1991,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+1992,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+1993,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+1994,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+1995,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+1996,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+1997,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+1998,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+1999,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+2000,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+2001,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+2002,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+2003,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+2004,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+2005,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+2006,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+2007,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+2008,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+2009,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+2010,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+2011,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+2012,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+2013,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+2014,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+2015,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+2016,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+2017,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+2018,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+2019,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+2020,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+2021,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+2022,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+2023,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+2024,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+2025,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+2026,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+2027,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+2028,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+2029,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+2030,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+2031,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+2032,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+2033,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+2034,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+2035,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+2036,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+2037,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+2038,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+2039,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+2040,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+2041,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+2042,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+2043,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+2044,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+2045,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+2046,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+2047,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+2048,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+2049,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+2050,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+2051,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+2052,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+2053,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+2054,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+2055,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+2056,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+2057,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+2058,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+2059,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+2060,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+2061,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+2062,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+2063,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+2064,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+2065,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+2066,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+2067,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+2068,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+2069,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+2070,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+2071,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+2072,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+2073,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+2074,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+2075,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+2076,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+2077,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+2078,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+2079,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+2080,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+2081,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+2082,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+2083,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+2084,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+2085,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+2086,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+2087,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+2088,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+2089,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+2090,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+2091,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+2092,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+2093,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+2094,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+2095,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+2096,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+2097,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+2098,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+2099,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+2100,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+2101,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+2102,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+2103,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+2104,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+2105,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+2106,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+2107,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+2108,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+2109,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+2110,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+2111,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+2112,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+2113,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+2114,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+2115,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+2116,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+2117,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+2118,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+2119,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+2120,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+2121,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+2122,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+2123,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+2124,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+2125,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+2126,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+2127,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+2128,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+2129,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+2130,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+2131,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+2132,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+2133,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+2134,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+2135,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+2136,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+2137,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+2138,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+2139,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+2140,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+2141,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+2142,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+2143,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+2144,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+2145,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+2146,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+2147,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+2148,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+2149,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+2150,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+2151,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+2152,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+2153,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+2154,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+2155,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+2156,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+2157,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+2158,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+2159,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+2160,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+2161,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+2162,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+2163,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+2164,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+2165,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+2166,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+2167,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+2168,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+2169,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+2170,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+2171,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+2172,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+2173,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+2174,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+2175,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+2176,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+2177,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+2178,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+2179,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+2180,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+2181,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+2182,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+2183,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+2184,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+2185,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+2186,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+2187,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+2188,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+2189,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+2190,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+2191,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+2192,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+2193,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+2194,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+2195,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+2196,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+2197,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+2198,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+2199,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
+2200,02caa49b-3ff8-4984-8d34-b8a19691104d,,4,US,3,12
+2201,00e0a2a8-b543-4cb3-b25c-df250a972be4,2236008 Ontario Inc.,3,CA,162,170
+2202,0a5c0b7a-1f74-4544-b210-66751ca7f8a6,"AAT Catheter Technologies, LLC",2,US,1,2
+2203,0136a7f6-1083-409a-a521-da27a9d652cd,Activiews Ltd.,3,IL,2,1
+2204,0a6e0410-2083-4dc8-ab35-c176e4fe79c5,Actuant Corporation,2,US,198,174
+2205,049cfae7-91b8-4127-8fc1-ca033d200b62,"Actuated Medical, Inc.",2,US,22,20
+2206,0ac58473-6d3f-44f6-9704-92a818f39a8d,Aircraft Medical Ltd.,3,GB,37,12
+2207,0112875f-1725-4a1c-919e-8f1e3bf71da0,ALERE SWITZERLAND GMBH,3,CH,48,108
+2208,08d23f4f-ee92-4287-a572-f8160e53fcb2,Altec Lansing Australia Pty Ltd,3,AU,6,9
+2209,0059a619-22f8-426b-8253-79d6e8a28313,"Amesbury Group, Inc.",2,US,86,58
+2210,059476de-44c9-4837-866c-d14ec93e1418,ATOM MEDICAL CORPORATION,3,JP,72,48
+2211,0a18097a-f06c-4828-9714-5ea58acee848,Avaya Inc.,2,US,2917,2208
+2212,0309f377-7fdc-41ee-b1b6-087e0a56c60f,AVIGILON FORTRESS CORPORATION,3,CA,54,53
+2213,03b50113-89c4-4c64-8d8c-435bbecd8c93,"Bestt Rollr, Inc.",2,US,2,2
+2214,03cf3541-672b-4a1a-9cba-211b882efe32,BRACCO DIAGNOSTICS INC.,2,US,100,67
+2215,04e2c10d-9b4a-4b40-a0da-3a743283629f,"Calient Networks, Inc.",2,US,46,48
+2216,0004b544-00ba-4d48-a9b1-072bfcac8859,CARDIA INNOVATION AB,3,SE,6,5
+2217,09a3964f-4178-4e8b-9c1c-6d5bbb8e2741,Cardiac Pathways Corporation,2,US,63,33
+2218,0658a845-3e48-4c23-b55c-5d9e78760135,Clayton Corporation,2,US,81,67
+2219,04c27ede-87a4-494f-b131-9e7da9b01e38,"CommUnique, LLC",2,US,1,2
+2220,05a3ef6f-507c-47f7-9e98-0d82b817727a,"CommvVault Systems, Inc.",2,US,1,4
+2221,0a705f7b-3749-42b1-9e39-de2ecfed7d01,"Cosco Management, Inc.",2,US,323,174
+2222,07dba387-b236-4355-bbfc-a2c33873f7a7,Cosmar Corporation,2,US,9,11
+2223,08303e37-a0ab-4271-8a33-7f88bbb3332a,"Dana-Farber Cancer Institute, Inc.",2,US,844,939
+2224,0904bcb9-344d-425f-91ef-168cafca301c,"Daniel Manufacturing, Inc.",2,US,75,74
+2225,086bda80-2989-4879-a1e7-5e1a8e8d3ba7,Darwin Discovery Limited,2,US,89,71
+2226,019b9aba-95cd-43bf-a8a5-e700229fddac,DATAMAX-O'NEIL CORPORATION,2,US,130,86
+2227,07d5e983-c359-45e8-ac9a-45c2def520ad,"Date-Ohmeda, Inc.",2,US,91,115
+2228,005825af-d194-4b0d-bc9c-9fadeb2296c0,"Dong-A Pharmaceutical Co., Ltd",3,KR,27,137
+2229,05c48798-20fc-42fe-ae38-5508f4234a2e,"DTS, Inc.",2,US,142,87
+2230,0193906b-5bb3-48b2-b4db-4d9043bb5095,"Entegris, Inc.",2,US,514,469
+2231,09e2b6a1-cb7e-4194-a657-b3548e359a71,"Fish Dive, Inc.",2,US,1,1
+2232,0058f93a-9410-473a-ac27-e5731fd74b98,Fixano,3,FR,5,13
+2233,0a82b441-0c1f-478e-97c5-8038feb07647,"ForeScout Technologies, Inc.",2,US,16,20
+2234,0290632a-06af-4aed-9442-3cc314181027,"FREESCALE SEMICONDUCTOR,INC.",2,US,5501,3774
+2235,0769b69e-e9b3-490e-906e-f660f00f9fed,"GE Homeland Protection, Inc.",2,US,36,65
+2236,02ad39b3-4593-4d13-8424-ec6ce4c0ce03,Geotab Inc.,3,CA,31,32
+2237,092301a4-af0f-4e17-b029-683bae00c212,Global Dental Service LLC,2,US,1,3
+2238,0563f18c-e777-46a6-b208-3c303bcaaa63,"Great Innovations, LLC",2,US,11,7
+2239,05621156-45c5-47c3-8c76-c0c63bf3097f,"Health Hero Network, Inc.",2,US,145,14
+2240,02d69217-04b0-4800-8ff9-b3c79ed84610,"Hemosphere, Inc.",2,US,12,8
+2241,029a69d7-5895-4559-a73e-395bd22013ab,Huntington Bancshares Incorporated,2,US,14,22
+2242,0ab58e82-9bde-464e-a4dd-d7798927e0f3,"IGEN International, Inc.",2,US,58,64
+2243,0312535f-67d5-491c-91ea-7e3f9e7fe385,Immunex Corporation,2,US,447,179
+2244,033ac8d1-cca2-4321-aefd-d7e8f1ad2ec2,Infineon Technologies Austria AG,3,AT,1544,806
+2245,0204a332-c41a-4611-8c9b-183c5d79450e,"Inspire Medical Systems, Inc.",2,US,125,91
+2246,067e1110-7638-4840-8dfb-cc9434d518f1,INSTITUT PASTEUR,3,FR,821,1098
+2247,0a1a4ead-104b-478e-91ad-61bff8bc199b,International Datacasting Corporation,3,CA,2,5
+2248,06658e26-fb78-4f34-8371-adec5291dcfc,"IPC Systems, Inc.",2,US,25,37
+2249,045d647a-98eb-4eb1-bfd4-8fda83ba3276,Ivee Development AB,3,SE,1,3
+2250,03f9fe5b-b875-4736-81c5-2d084b5407fc,Kent State University,2,US,197,257
+2251,08e88dec-db46-4898-88e7-ac79c1ac779d,LIGHT WAVE TECHNOLOGY INC.,3,CA,37,20
+2252,05eb422e-37fa-4558-a668-4708de75b01e,"LINCOLN GLOBAL, INC.",2,US,955,414
+2253,0ab2f46e-aef6-452e-9a1b-ebfdd937d416,"LIPPERT COMPONENTS, INC.",2,US,102,78
+2254,0959987c-e8e7-49a3-8109-bcc03f88575c,LRC PRODUCTS LIMITED,3,GB,48,66
+2255,03aecf37-c12b-40f3-b9aa-52c6f502a62c,LRE Medical GmbH,3,DE,24,22
+2256,0885d0b6-a6d5-4a43-9d53-8434ada6871d,"Lutron Electronics Co., Ltd.",2,US,1234,436
+2257,03c72075-c4b7-4436-a63e-38d53b5c3c6a,MDS Analytical Technologies (US) Inc.,2,US,12,28
+2258,004e5f83-3a85-4382-9aa4-0e232dd437d1,"MDS TECHNOLOGIES, LLC",2,US,104,98
+2259,07dd3b47-2884-48c8-be0d-3609200ff4b7,Merck Canada Inc.,3,CA,40,184
+2260,00f2c5da-2541-4f2d-b86a-5f1973998b5e,"MINNESOTA MEDICAL DEVELOPMENT, INC.",2,US,7885,5171
+2261,0299ee1e-317c-44bd-a7be-35775be8dc5b,"MKS Instruments, Inc.",2,US,457,389
+2262,09751b9b-2dc2-4af2-b85b-1e52ffbb40b2,Monsanto Invest B.V.,3,NL,18,34
+2263,06959dee-d182-4bf3-91e6-e15ed87340ba,N.V.Organon,3,NL,103,196
+2264,00e602f3-ef94-4f4b-ac17-af2fd4688af8,"NaVasive, Inc.",2,US,1,5
+2265,06db2d4f-732a-48ee-9b97-6313536c74a2,Neonode Inc.,2,US,74,50
+2266,0a67e96d-daff-4b99-8f60-7126d37d8677,"NSC Pearson, Inc.",2,US,5,6
+2267,049935c8-6787-4e02-b93d-57850f02cb03,"OMNICELL, INC.",2,US,71,68
+2268,052c14d8-8d7d-4f37-adfe-576f48e239d2,"PML Microbiologicals, Inc.",2,US,7,5
+2269,04a30ca1-cb58-4530-b24a-3322b1f67a43,"Providence Medical Technology, Inc.",2,US,48,22
+2270,09aab528-e5c4-4e5c-b6f0-640da8f708a0,Qimonda North America Corp.,2,US,80,65
+2271,045b0f72-ab71-406d-8213-a38e3117066b,"Quardrant Holdings Cambridge, Ltd.",3,,1,3
+2272,075fddd9-f31f-410e-a474-b4bb2283ef7e,Quinton Instrument Company,2,US,50,63
+2273,0610ce7f-095a-439e-85fe-62871caafeac,Radio Sysetms Corporation,2,US,1,2
+2274,0530ec4e-0c9d-41f8-a9ff-b3b595d5ec2b,"RIDETONES, INC",3,CA,6,3
+2275,08d1d6f1-5054-40f2-b413-d9d333458599,"SciMe Life Systems, Inc.",2,US,2,8
+2276,02acf830-dda7-410d-901d-7278c5ae49fa,"SeaSpine, Inc.",2,US,25,19
+2277,00141147-703c-4b54-9eee-f2c8bb9f2f93,SEIKO EPSON CORPORATION,3,JP,28129,6922
+2278,032e9c05-d8b9-4a86-98f3-7cc53b1f1815,Sherwood Manufacturing Corporation,2,US,606,474
+2279,019ae16c-b2ce-4b5b-8740-ad21dcd94e08,"Sinexus, Inc.",2,US,5,4
+2280,06224c3c-a22d-4271-a044-67922a6c13bd,Symantec Corporation,2,US,3069,1845
+2281,0513abee-66c5-4ab0-80e5-eb6072e67ae3,"SYNC-RX, LTD",3,IL,31,11
+2282,06ec3d1d-abba-4a62-95b1-b5b267693d33,"Target Therapeutics, Inc.",2,US,208,99
+2283,02d72dc0-f1cb-4780-a0b5-339352697d80,"Terra Prime Technologies, LLC",2,US,23,23
+2284,068dde4d-3500-41b2-a72d-12b32505ad75,The Board of Regents of the University of Texas System,2,US,1855,2976
+2285,0756719c-edb7-4583-a379-a70b267d6c9d,The Glad Products Company,2,US,263,134
+2286,00c46619-7a81-449b-91a7-32c65f7edbe9,The University of Kentucky Research Foundation,2,US,736,929
+2287,016fee08-8642-4f13-afc1-dffb9d91e6ae,Thermo Scientific Portable Instruments Inc.,2,US,1,5
+2288,0492cc2d-14a3-4f21-8536-884ec8fe4067,TIBCO SOFTWARE INC.,2,US,87,114
+2289,0928736f-c870-4e21-8260-df7904279e29,"TriCipher, Inc.",2,US,18,9
+2290,0b08dcdc-c9bf-489c-a675-56121e3d9a80,"UChicago Argonne, LLC",2,US,616,789
+2291,03545702-e778-42a5-adf8-d35a5d7c1d51,University of Virginia Patent Foundation,2,US,707,947
+2292,0958a536-8a76-4569-88fc-653a9ffb5845,Vactor Manufacturing,2,US,1,2
+2293,07ff496c-cec2-416d-9b5a-13a6fbd03c38,"Varitronic Systems, Inc.",2,US,18,16
+2294,04e7d4fb-6787-4133-9cc4-c40cba7a1260,VG Systems Ltd.,3,,1,3
+2295,06264f32-6874-4d24-9d34-97260dce09f0,VIOLIN MEMORY LLC,2,US,59,27
+2296,03c29547-cdab-4b92-9074-d75207d6bd63,"Wall Ace, LLC",2,US,21,22
+2297,04048aa6-ff9e-4a59-93a8-fcf535f29b59,"Watson Laboratories, Inc.",2,US,89,73
+2298,0261cac5-7dde-4e53-9218-05303747126a,"Xytrans, Inc.",2,US,37,13
+2299,0ac5f864-1d6b-41da-b8c9-c01966350748,"Zoll Circulation, Inc.",2,US,196,107
